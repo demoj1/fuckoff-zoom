@@ -11,7 +11,7 @@ do
       xdotool windowmove --sync $win 0 0
       echo "here" > /dev/shm/zoom_toolbar
     else
-      xdotool windowmove --sync $win $floating_bar_developer_mom_ass $floating_bar_developer_mom_ass
+      xdotool windowmove --sync $win $position_of_floating_bar_developer_mom $position_of_floating_bar_developer_mom
       echo "fuckoffed" > /dev/shm/zoom_toolbar
     fi
   fi
